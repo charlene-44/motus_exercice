@@ -1,0 +1,14 @@
+{
+  "name": "motus",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+     "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^2.1.8"
+  }
+}
